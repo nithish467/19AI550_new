@@ -1,6 +1,6 @@
 # Ex.No: 2  Welcome Script in Unity
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 22/07/2026                                                                         
+### REGISTER NUMBER : 212223240109
 ### AIM: 
  To learn the basic scripting in Unity and print welcome message in Console window. 
 ### Procedure:
@@ -36,6 +36,7 @@ public class FirstScript : MonoBehaviour
 ```
 ### Output:
 
+<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/f580fd6f-37ea-403e-ab6e-fc8df5d41043" />
 
 
 ### Result:
